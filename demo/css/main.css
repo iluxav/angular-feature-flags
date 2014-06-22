@@ -16,7 +16,7 @@ h2 { margin-top: 0; margin-bottom: 10px; font-size: 14px; font-weight: normal; }
 .toggle .main { left: 700px; opacity: 0.4; }
 .toggle .flagContainer { left: 0; }
 
-.panel { width: 70%; background-color: #8EC16D; text-align: center; margin: 20px auto; font-size: 17pt; padding: 20px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1); font-family: sans-serif; color: #FFF; }
+.panel { width: 70%; background-color: #8EC16D; text-align: left; margin: 20px auto; font-size: 17pt; padding: 20px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1); font-family: sans-serif; color: #FFF; }
 .panel:hover { cursor: pointer; background-color: #9DC980; }
 .panel.selected { background-color: #EE7777; }
 

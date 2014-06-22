@@ -17,10 +17,22 @@
         "name": "User Profile",
         "description": "Displays all the information about the logged in user's profile."
     },
-    {
-        "key": "settings",
-        "active": false,
-        "name": "Settings",
-        "description": "Configure the user's settings and preferences for the app."
-    }
+	{
+		"key": "userProfile.firstName",
+		"active": false,
+		"name": "------ First Name",
+		"description": "    Displays first name input"
+	},
+	{
+		"key": "userProfile.lastName",
+		"active": false,
+		"name": "------ Last Name",
+		"description": "    Displays last name input"
+	},
+	{
+		"key": "userProfile.lastName.more",
+		"active": false,
+		"name": "------------ More",
+		"description": "        Displays more"
+	}
 ]
